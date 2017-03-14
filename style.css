@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  text-align: right;
+}
+p {
+  font-family: "Arial";
+  font-size: 19px;
+  letter-spacing: 0.1em;
+  text-align: right;
+  color: #6F6E6D;
+}
+tr {
+  font-family: "Arial";
+  font-size: 11px;
+  color: #D3CFCD;
+  vertical-align: bottom;
+  letter-spacing: 0.1em;
+}
+img {
+  display: inline-block;
+  vertical-align: text-top;
+  align: center;
+}
+div {
+  color: #6F6E6D;
+  font-family: "Arial";
+  valign="bottom";
+  font-size: 9px;
+  letter-spacing: 0.1em;
+}
+a:link, a:visited  {
+    color: #D3CFCD;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: #6F6E6D;
+    text-decoration: none;
+}
+/*a:visited {
+    color: #D3CFCD;
+    text-decoration: none;
+}*/
+/*a:active {
+    color: #6F6E6D;
+}*/
