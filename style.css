@@ -1,6 +1,12 @@
+html {
+  
+}
 body {
   background-color: white;
   text-align: right;
+  position: relative; 
+  resize: both;
+  overflow: auto;
 }
 p {
   font-family: "Arial";
@@ -20,7 +26,10 @@ img {
   display: inline-block;
   vertical-align: text-top;
   align: center;
+  max-width: 25%;
+  max-height: 25%;
 }
+
 div {
   color: #6F6E6D;
   font-family: "Arial";
